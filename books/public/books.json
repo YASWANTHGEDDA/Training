@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "category":" JavaScript",
+    "imageLink": "https://eloquentjavascript.net/img/cover.jpg",
+    "description": "dah,skjK "
+  },
+  {
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "category":" JavaScript",
+    "imageLink": "https://m.media-amazon.com/images/I/71FU6nxVhAL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "category":" Programming",
+    "imageLink": "https://www.oreilly.com/library/cover/9781492071266/1200w630h/"
+  },
+
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "category":" JavaScript",
+    "imageLink": "https://m.media-amazon.com/images/I/71VStSjZmpL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Art of Cybersecurity",
+    "author": "John Doe",
+    "category":" Cybersecurity",
+    "imageLink": "https://images-platform.99static.com/Jes6kCfH0hUmVA3koLY8mMSkyBY=/217x72:1771x1626/500x500/top/smart/99designs-contests-attachments/113/113793/attachment_113793711"
+  },
+  {
+    "title": "The Web Application Hacker's Handbook",
+    "author": "Dafydd Stuttard",
+    "imageLink": "https://i.ebayimg.com/images/g/CrQAAOSwB0tmkPhO/s-l1200.jpg"
+  },
+  {
+    "title": "Hacking: The Art of Exploitation",
+    "author": "Jon Erickson",
+    "imageLink": "https://m.media-amazon.com/images/I/91dLDp5XzYL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Metasploit: The Penetration Tester's Guide",
+    "author": "David Kennedy",
+    "imageLink": "https://m.media-amazon.com/images/I/91920apJNBL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Cybersecurity Essentials",
+    "author": "Charles Brooks",
+    "imageLink": "https://m.media-amazon.com/images/I/61NefkGnOfL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qPz9T6Am7SSY0JT9zcsnnH9TV7a7b6lCbg&s"
+  },
+  {
+    "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "author": "Aurélien Géron",
+    "imageLink": "https://m.media-amazon.com/images/I/81tPtnOeMyL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "imageLink": "https://machinelearningmastery.com/wp-content/uploads/2023/03/DLWPT-400.jpg"
+  },
+  {
+    "title": "Pattern Recognition and Machine Learning",
+    "author": "Christopher Bishop",
+    "imageLink": "https://www.degruyter.com/document/cover/isbn/9783111339207/product_pages"
+  },
+  {
+    "title": "The Hundred-Page Machine Learning Book",
+    "author": "Andriy Burkov",
+    "imageLink": "https://m.media-amazon.com/images/I/61ELFf6wthL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "imageLink": "https://m.media-amazon.com/images/I/715wQxqDKTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "SQL for Data Analysis",
+    "author": "Cathy Tanimura",
+    "imageLink": "https://m.media-amazon.com/images/I/81eO3GKJrRL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "System Design Interview - An Insider's Guide",
+    "author": "Alex Xu",
+    "imageLink": "https://m.media-amazon.com/images/I/615KGTRs1OL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "PostgreSQL Up & Running",
+    "author": "Regina Obe",
+    "imageLink": "https://m.media-amazon.com/images/I/91V4KvmUzdL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "MongoDB: The Definitive Guide",
+    "author": "Shannon Bradshaw",
+    "imageLink": "https://m.media-amazon.com/images/I/712zsPFM1kL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Fundamentals of Database Systems",
+    "author": "Ramez Elmasri",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452542946i/28513542.jpg"
+  },
+  {
+    "title": "The Phoenix Project",
+    "author": "Gene Kim",
+    "imageLink": "https://m.media-amazon.com/images/I/914-sUgELZL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Building Microservices",
+    "author": "Sam Newman",
+    "imageLink": "https://m.media-amazon.com/images/I/91IfNcTDIPL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks",
+    "imageLink": "https://m.media-amazon.com/images/I/817iWsLJR0L._AC_UF1000,1000_QL80_.jpg"
+  },
+
+  {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "imageLink": "https://m.media-amazon.com/images/I/91YfNb49PLL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma",
+    "imageLink": "https://m.media-amazon.com/images/I/51nL96Abi1L._UF1000,1000_QL80_.jpg"
+  }
+]
