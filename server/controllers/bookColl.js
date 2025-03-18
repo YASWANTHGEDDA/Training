@@ -44,7 +44,7 @@ import bookModel from "./../model/schema.js";
 export const getbooks = async (req, res) => {
     const books = await bookModel.find();
     res.json(books);
-};
+}; 
 
 export const createbooks = async (req, res) => {
     const { title, author, imageLink } = req.body;

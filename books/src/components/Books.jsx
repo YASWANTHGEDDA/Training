@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { fetchBooks, createBook, updateBook, deleteBook } from "./../api";
+import "./../components/books.css"
+
 
 function Books() {
   const [books, setBooks] = useState([]);
@@ -95,26 +97,29 @@ function Books() {
   };
 
   return (
-    <>
-      <button onClick={handleAddClick}>
+    <div className="container mt-5">
+      <button onClick={handleAddClick} className="btn btn-success mb-3">
         {editBook ? "Update Book" : "Add Book"}
       </button>
       {showForm && (
         <form>
           <input
             id="title"
+            className="form-control"
             placeholder="Title"
             value={newBook.title}
             onChange={handleInputChange}
           />
           <input
             id="author"
+            className="form-control"
             placeholder="Author"
             value={newBook.author}
             onChange={handleInputChange}
           />
           <input
             id="imageLink"
+            className="form-control"
             placeholder="Image URL"
             value={newBook.imageLink}
             onChange={handleInputChange}
@@ -156,7 +161,7 @@ function Books() {
           </div>
         ))}
       </div>
-    </>
+    </div>
   );
 }
 

@@ -10,7 +10,7 @@ export const fetchBooks = async () => {
         console.error('Error fetching books:', error);
         throw error;
     }
-};
+}; 
 
 export const createBook = async (book) => {
     try {
