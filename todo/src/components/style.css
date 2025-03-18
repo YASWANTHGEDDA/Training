@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+.app {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.task-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.task-form input,
+.task-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.task-form button {
+  padding: 10px;
+  background: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Add spacing between tasks */
+}
+
+.task-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+.task {
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task button {
+  margin-left: 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.task button:nth-child(2) {
+  background: #ffc107;
+  color: white;
+}
+
+.task button:nth-child(3) {
+  background: #dc3545;
+  color: white;
+}
